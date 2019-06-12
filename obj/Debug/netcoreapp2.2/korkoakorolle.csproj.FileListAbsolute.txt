@@ -1,0 +1,11 @@
+C:\Users\isoan\koodit\korkoakorolle\bin\Debug\netcoreapp2.2\korkoakorolle.deps.json
+C:\Users\isoan\koodit\korkoakorolle\bin\Debug\netcoreapp2.2\korkoakorolle.runtimeconfig.json
+C:\Users\isoan\koodit\korkoakorolle\bin\Debug\netcoreapp2.2\korkoakorolle.runtimeconfig.dev.json
+C:\Users\isoan\koodit\korkoakorolle\bin\Debug\netcoreapp2.2\korkoakorolle.dll
+C:\Users\isoan\koodit\korkoakorolle\bin\Debug\netcoreapp2.2\korkoakorolle.pdb
+C:\Users\isoan\koodit\korkoakorolle\obj\Debug\netcoreapp2.2\korkoakorolle.csprojAssemblyReference.cache
+C:\Users\isoan\koodit\korkoakorolle\obj\Debug\netcoreapp2.2\korkoakorolle.csproj.CoreCompileInputs.cache
+C:\Users\isoan\koodit\korkoakorolle\obj\Debug\netcoreapp2.2\korkoakorolle.AssemblyInfoInputs.cache
+C:\Users\isoan\koodit\korkoakorolle\obj\Debug\netcoreapp2.2\korkoakorolle.AssemblyInfo.cs
+C:\Users\isoan\koodit\korkoakorolle\obj\Debug\netcoreapp2.2\korkoakorolle.dll
+C:\Users\isoan\koodit\korkoakorolle\obj\Debug\netcoreapp2.2\korkoakorolle.pdb
